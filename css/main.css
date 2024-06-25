@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/lauzas.png) no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0;
+    color: rgb(238, 85, 25);
+}
+
+p {
+    font-size: 30px;
+    line-height: 1.2em;
+    color: rgb(235, 131, 14);
+}
+
+.description {
+    font-size: 18px;
+    line-height: 1.5em;
+    color: gold;
+}
+
+a {
+    box-shadow: 0 5px 9px 2px rgba(241, 118, 18, 0.938);
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f5ce20;
+    color: #e7820e;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    max-width: 130px;
+    display: block;
+    margin: 20px auto 0;
+
+}
